@@ -9,9 +9,9 @@ Nirsoft Package to create an powerful usb sniffer in background
 
 * Tools :
   Tools nirsoft without text output and another
-    usb_dp.exe  : USBDUMPER v1 (silent programm)
-    usb_dp2.exe : USBDUMPER v2.2
-    ...
+    - usb_dp.exe  : USBDUMPER v1 (silent programm)
+    - usb_dp2.exe : USBDUMPER v2.2
+    - ...
 
 * Update :
   Folder for updating all progams in folder Steal
